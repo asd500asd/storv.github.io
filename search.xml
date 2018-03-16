@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[创世]]></title>
+    <url>%2F%E5%88%9B%E4%B8%96%2F</url>
+    <content type="text"><![CDATA[来来回回，颠颠倒倒的整了好几个版本，创世也发了好几次了。蛋疼。这一次终于算是开始了吧。一个星期。霍金 死了,时间20180314.我一直人为，当人达到一定境界之后，他们势必回去某个地方，我称那里为神国。]]></content>
+      <categories>
+        <category>情感</category>
+        <category>牢骚</category>
+      </categories>
+      <tags>
+        <tag>霍金</tag>
+        <tag>创世</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.Quick StartCreate a new post1$ hexo new "My New Post"More info: WritingRun server1$ hexo serverMore info: ServerGenerate static files1$ hexo generateMore info: GeneratingDeploy to remote sites1$ hexo deployMore info: Deployment]]></content>
